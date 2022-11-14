@@ -16,6 +16,7 @@ A curated list with resources about node-based UIs.
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
+- [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
 
 ### Layouting
 - [elkjs](https://github.com/kieler/elkjs) - A port of the Java ELK layouting library to Javascript
