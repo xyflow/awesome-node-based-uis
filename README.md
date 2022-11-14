@@ -26,7 +26,7 @@ A curated list with resources about node-based UIs.
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
-- [Mode](exploratory analysis](https://mode.com/) - Tool for exploratory analysis
+- [Mode](https://mode.com/) - Tool for exploratory analysis
 - [n8n](https://n8n.io/) - Workflow automation platform 
 - [Natto](https://natto.dev/) - Javascript environment
 - [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
