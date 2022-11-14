@@ -40,6 +40,7 @@ A curated list with resources about node-based UIs.
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool
 - [Mode](https://mode.com/) - Tool for exploratory analysis
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
+- [workflow86](https://www.workflow86.com/)
 
 ### Data Processing
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
@@ -51,12 +52,20 @@ A curated list with resources about node-based UIs.
 
 ### 3D & Visuals
 - [Nodes.io](https://nodes.io/) - Visual programming environment
+- [Nodetoy](https://nodetoy.co/)
 
 ### Audio
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
 - [Zupiter](https://z.musictools.live) - Synthesizer
+
+### Diagramming
+
+- [FigJam](https://www.figma.com/figjam/)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Miro](https://miro.com/)
+- [diagrams.net](https://www.diagrams.net/) - also known as draw.io
 
 
 
