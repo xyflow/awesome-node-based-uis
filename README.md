@@ -4,8 +4,7 @@ A curated list with resources about node-based UIs.
 
 ## Libraries
 
-### Javascript 
-
+### Visualizers 
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
@@ -17,6 +16,18 @@ A curated list with resources about node-based UIs.
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
+
+### Layouting
+- [elkjs](https://github.com/kieler/elkjs) - A port of the Java ELK layouting library to Javascript
+- [d3-hierarchy](https://github.com/d3/d3-hierarchy) - Helpers and algorithms for working with hierarchical graphs
+- [d3-force](https://github.com/d3/d3-force) - Library for creating interactive force directed graphs
+- [d3-dag](https://erikbrinkman.github.io/d3-dag/) - D3 plugin to work with DAG data structures
+- [graphology-layout](https://graphology.github.io/standard-library/layout.html) - Javascript library that contains different layout algorithms
+- [dagrejs](https://github.com/dagrejs/dagre) - Directed graph layout algorithms for Javascript
+
+### Graph Utilities
+- [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
+- [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
 ## Apps 
 - [Cables](https://cables.gl/) - Visual programming environment
