@@ -2,14 +2,13 @@
 
 A curated list with resources about node-based UIs.
 
-## Libraries
+## JS Libraries
 
 ### Visualizers 
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
-- [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for JavaScript
 - [react-diagraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based Uis
@@ -31,22 +30,49 @@ A curated list with resources about node-based UIs.
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
 ## Apps 
+
+### Workflow & Automation
+- [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
+- [n8n](https://n8n.io/) - Workflow automation platform 
+- [Patterns](https://patterns.app) - Data processing and automation tool
 - [Cables](https://cables.gl/) - Visual programming environment
 - [Enso](https://enso.org/) - Code based automation tool
-- [Eternal](https://eternal.rob.computer/) - Audio and visual composition
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool
-- [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
-- [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
-- [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
 - [Mode](https://mode.com/) - Tool for exploratory analysis
-- [n8n](https://n8n.io/) - Workflow automation platform 
-- [Natto](https://natto.dev/) - Javascript environment
-- [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
-- [Nodes.io](https://nodes.io/) - Visual programming environment
-- [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
-- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
+
+### Data Processing
+- [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
+- [Natto](https://natto.dev/) - Javascript environment
+- [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+- [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
 - [Slang](https://bitspark.de/slang/) - Data processing tool
 - [Y42](https://www.y42.com/) - Data pipeline tool
+
+### 3D & Visuals
+- [Nodes.io](https://nodes.io/) - Visual programming environment
+
+### Audio
+- [Eternal](https://eternal.rob.computer/) - Audio and visual composition
+- [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
+- [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
 - [Zupiter](https://z.musictools.live) - Synthesizer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
