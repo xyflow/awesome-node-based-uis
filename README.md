@@ -4,7 +4,7 @@ A curated list with resources about node-based UIs.
 
 ## JS Libraries
 
-### Visualizers 
+### Renderers 
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
@@ -56,6 +56,7 @@ A curated list with resources about node-based UIs.
 - [Slang](https://bitspark.de/slang/) - Data processing tool
 - [Y42](https://www.y42.com/) - Data pipeline tool
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
+- [Rapidcanvas](https://rapidcanvas.ai/) - Data science platform
 
 ### 3D & Visuals
 - [Nodes.io](https://nodes.io/) - Visual programming environment
