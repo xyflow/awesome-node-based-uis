@@ -24,6 +24,7 @@ A curated list with resources about node-based UIs.
 - [d3-dag](https://erikbrinkman.github.io/d3-dag/) - D3 plugin to work with DAG data structures
 - [graphology-layout](https://graphology.github.io/standard-library/layout.html) - Javascript library that contains different layout algorithms
 - [dagrejs](https://github.com/dagrejs/dagre) - Directed graph layout algorithms for Javascript
+- [springy](https://github.com/dhotson/springy) - Force directed graph layouts
 
 ### Graph Utilities
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
