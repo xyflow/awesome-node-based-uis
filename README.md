@@ -48,6 +48,7 @@ A curated list with resources about node-based UIs.
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/)
+- [customer.io](https://customer.io/visual-workflow-builder/)
 
 
 ### AI
