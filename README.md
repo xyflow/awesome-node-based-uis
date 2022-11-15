@@ -55,6 +55,7 @@ A curated list with resources about node-based UIs.
 - [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
 - [Slang](https://bitspark.de/slang/) - Data processing tool
 - [Y42](https://www.y42.com/) - Data pipeline tool
+- [Cascade](https://www.cascade.io/) - Data transformation and visualization
 
 ### 3D & Visuals
 - [Nodes.io](https://nodes.io/) - Visual programming environment
