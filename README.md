@@ -30,7 +30,7 @@ A curated list with resources about node-based UIs.
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
-## Apps 
+## Applications
 
 ### Workflow & Automation
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
@@ -41,6 +41,7 @@ A curated list with resources about node-based UIs.
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool
 - [Mode](https://mode.com/) - Tool for exploratory analysis
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
+- [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/)
 
 ### AI
