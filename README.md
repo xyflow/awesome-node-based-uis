@@ -42,6 +42,10 @@ A curated list with resources about node-based UIs.
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
 - [workflow86](https://www.workflow86.com/)
 
+### AI
+
+- [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
+
 ### Data Processing
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [Natto](https://natto.dev/) - Javascript environment
