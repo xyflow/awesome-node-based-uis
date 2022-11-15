@@ -16,6 +16,7 @@ A curated list with resources about node-based UIs.
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
+- [mermaid](https://mermaid-js.github.io/mermaid/#/) - Static diagrams for documentation
 
 
 ### Layouting
