@@ -28,13 +28,14 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 - [d3-dag](https://erikbrinkman.github.io/d3-dag/) - D3 plugin to work with DAG data structures
 - [graphology-layout](https://graphology.github.io/standard-library/layout.html) - Javascript library that contains different layout algorithms
 - [dagrejs](https://github.com/dagrejs/dagre) - Directed graph layout algorithms for Javascript
+- [springy](https://github.com/dhotson/springy) - Force directed graph layouts
 
 ### Graph Utilities
 
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
-## Apps
+## Applications
 
 ### Workflow & Automation
 
@@ -46,7 +47,12 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool
 - [Mode](https://mode.com/) - Tool for exploratory analysis
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
+- [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/)
+
+### AI
+
+- [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
 
 ### Data Processing
 
