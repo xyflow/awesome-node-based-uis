@@ -2,9 +2,12 @@
 
 A curated list with resources about node-based UIs.
 
+Check out [contributing.md](/contributing.md) for instructions on how to add a new link to the list.
+
 ## JS Libraries
 
-### Visualizers 
+### Visualizers
+
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
@@ -18,6 +21,7 @@ A curated list with resources about node-based UIs.
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
 
 ### Layouting
+
 - [elkjs](https://github.com/kieler/elkjs) - A port of the Java ELK layouting library to Javascript
 - [d3-hierarchy](https://github.com/d3/d3-hierarchy) - Helpers and algorithms for working with hierarchical graphs
 - [d3-force](https://github.com/d3/d3-force) - Library for creating interactive force directed graphs
@@ -26,14 +30,16 @@ A curated list with resources about node-based UIs.
 - [dagrejs](https://github.com/dagrejs/dagre) - Directed graph layout algorithms for Javascript
 
 ### Graph Utilities
+
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
-## Apps 
+## Apps
 
 ### Workflow & Automation
+
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
-- [n8n](https://n8n.io/) - Workflow automation platform 
+- [n8n](https://n8n.io/) - Workflow automation platform
 - [Patterns](https://patterns.app) - Data processing and automation tool
 - [Cables](https://cables.gl/) - Visual programming environment
 - [Enso](https://enso.org/) - Code based automation tool
@@ -43,6 +49,7 @@ A curated list with resources about node-based UIs.
 - [workflow86](https://www.workflow86.com/)
 
 ### Data Processing
+
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [Natto](https://natto.dev/) - Javascript environment
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -51,10 +58,12 @@ A curated list with resources about node-based UIs.
 - [Y42](https://www.y42.com/) - Data pipeline tool
 
 ### 3D & Visuals
+
 - [Nodes.io](https://nodes.io/) - Visual programming environment
 - [Nodetoy](https://nodetoy.co/)
 
 ### Audio
+
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
@@ -66,22 +75,3 @@ A curated list with resources about node-based UIs.
 - [Lucidchart](https://www.lucidchart.com/)
 - [Miro](https://miro.com/)
 - [diagrams.net](https://www.diagrams.net/) - also known as draw.io
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
