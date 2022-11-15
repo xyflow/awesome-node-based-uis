@@ -6,19 +6,22 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 
 ## JS Libraries
 
-### Visualizers
+
+### Renderers 
 
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
+- [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for JavaScript
 - [react-diagraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
-- [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based Uis
-- [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
+- [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based UIs
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
-- [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
+- [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
+- [mermaid](https://mermaid-js.github.io/mermaid/#/) - Static diagrams for documentation
+
 
 ### Layouting
 
@@ -26,8 +29,8 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 - [d3-hierarchy](https://github.com/d3/d3-hierarchy) - Helpers and algorithms for working with hierarchical graphs
 - [d3-force](https://github.com/d3/d3-force) - Library for creating interactive force directed graphs
 - [d3-dag](https://erikbrinkman.github.io/d3-dag/) - D3 plugin to work with DAG data structures
-- [graphology-layout](https://graphology.github.io/standard-library/layout.html) - Javascript library that contains different layout algorithms
 - [dagrejs](https://github.com/dagrejs/dagre) - Directed graph layout algorithms for Javascript
+- [graphology-layout](https://graphology.github.io/standard-library/layout.html) - Javascript library that contains different layout algorithms
 - [springy](https://github.com/dhotson/springy) - Force directed graph layouts
 
 ### Graph Utilities
@@ -39,16 +42,21 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 
 ### Workflow & Automation
 
-- [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
-- [n8n](https://n8n.io/) - Workflow automation platform
-- [Patterns](https://patterns.app) - Data processing and automation tool
 - [Cables](https://cables.gl/) - Visual programming environment
+- [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
+- [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [Enso](https://enso.org/) - Code based automation tool
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool
+- [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
 - [Mode](https://mode.com/) - Tool for exploratory analysis
+- [n8n](https://n8n.io/) - Workflow automation platform
+- [OneSignal Journeys](https://onesignal.com/journeys) - Visual no-code workflow builder to automate messaging
+- [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/)
+- [customer.io](https://customer.io/visual-workflow-builder/)
+
 
 ### AI
 
@@ -56,10 +64,12 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 
 ### Data Processing
 
+- [Cascade](https://www.cascade.io/) - Data transformation and visualization
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [Natto](https://natto.dev/) - Javascript environment
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
+- [Rapidcanvas](https://rapidcanvas.ai/) - Data science platform
 - [Slang](https://bitspark.de/slang/) - Data processing tool
 - [Y42](https://www.y42.com/) - Data pipeline tool
 
@@ -77,7 +87,7 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 
 ### Diagramming
 
+- [diagrams.net](https://www.diagrams.net/) - also known as draw.io
 - [FigJam](https://www.figma.com/figjam/)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Miro](https://miro.com/)
-- [diagrams.net](https://www.diagrams.net/) - also known as draw.io
