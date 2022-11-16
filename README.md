@@ -17,7 +17,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for JavaScript
-- [react-diagraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
+- [react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based UIs
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
@@ -39,6 +39,10 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
+
+### Misc
+
+- [flume](https://github.com/chrisjpatty/flume) - Business logic graph editor
 
 ## Applications
 
