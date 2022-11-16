@@ -2,9 +2,13 @@
 
 A curated list with resources about node-based UIs.
 
+Check out [contributing.md](/contributing.md) for instructions on how to add a new link to the list.
+
 ## JS Libraries
 
+
 ### Renderers 
+
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
@@ -20,6 +24,7 @@ A curated list with resources about node-based UIs.
 
 
 ### Layouting
+
 - [elkjs](https://github.com/kieler/elkjs) - A port of the Java ELK layouting library to Javascript
 - [d3-hierarchy](https://github.com/d3/d3-hierarchy) - Helpers and algorithms for working with hierarchical graphs
 - [d3-force](https://github.com/d3/d3-force) - Library for creating interactive force directed graphs
@@ -29,12 +34,14 @@ A curated list with resources about node-based UIs.
 - [springy](https://github.com/dhotson/springy) - Force directed graph layouts
 
 ### Graph Utilities
+
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
 ## Applications
 
 ### Workflow & Automation
+
 - [Cables](https://cables.gl/) - Visual programming environment
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
@@ -56,6 +63,7 @@ A curated list with resources about node-based UIs.
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
 
 ### Data Processing
+
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [Natto](https://natto.dev/) - Javascript environment
@@ -66,10 +74,12 @@ A curated list with resources about node-based UIs.
 - [Y42](https://www.y42.com/) - Data pipeline tool
 
 ### 3D & Visuals
+
 - [Nodes.io](https://nodes.io/) - Visual programming environment
 - [Nodetoy](https://nodetoy.co/)
 
 ### Audio
+
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
@@ -81,22 +91,3 @@ A curated list with resources about node-based UIs.
 - [FigJam](https://www.figma.com/figjam/)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Miro](https://miro.com/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
