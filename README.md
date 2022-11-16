@@ -73,6 +73,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
+- [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) - JSON data visualizer
 - [Natto](https://natto.dev/) - Javascript environment
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications [OSS]
 - [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
