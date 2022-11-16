@@ -4,6 +4,8 @@ A curated list with resources about node-based UIs.
 
 Check out [contributing.md](/contributing.md) for instructions on how to add a new link to the list.
 
+Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
+
 ## JS Libraries
 
 
