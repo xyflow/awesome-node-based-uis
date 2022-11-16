@@ -64,7 +64,6 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [customer.io](https://customer.io/visual-workflow-builder/) - Automated messaging platform
-- [Enso](https://enso.org/) - Code based automation tool
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool [OSS]
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
 - [Kuwala](https://github.com/kuwala-io/kuwala) - Data Pipelines for BI analysists [OSS]
@@ -85,6 +84,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
 - [Datablocks](https://datablocks.pro) - Data transformation and visualization
+- [Enso](https://enso.org/) - Code based automation tool [OSS]
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) - JSON data visualizer
 - [Natto](https://natto.dev/) - Javascript environment
