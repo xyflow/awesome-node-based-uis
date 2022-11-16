@@ -6,8 +6,7 @@ Check out [contributing.md](/contributing.md) for instructions on how to add a n
 
 Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
-## JS Libraries
-
+## Javascript Libraries
 
 ### Renderers 
 
@@ -23,7 +22,6 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
 - [mermaid](https://mermaid-js.github.io/mermaid/#/) - Static diagrams for documentation
-
 
 ### Layouting
 
@@ -43,6 +41,15 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Misc
 
 - [flume](https://github.com/chrisjpatty/flume) - Business logic graph editor
+
+## C Libraries
+
+### Renderers
+
+- [node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using dear imgui
+- [nodeeditor](https://github.com/paceholder/nodeeditor) - Dataflow programming framework
+- [nodify](https://github.com/miroiu/nodify) - Modular controls for node-based editors
+- [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
 
 ## Applications
 
@@ -83,12 +90,19 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### 3D & Visuals
 
+- [Blackjack](https://github.com/setzer22/blackjack) - Procedural modelling application [OSS]
+- [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
+- [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
+- [Mixture](https://github.com/alelievr/Mixture) - Unity plugin to create textures in realtime [OSS]
+- [Nodebox](https://github.com/nodebox/nodebox) - App for visualization and generative design [OSS]
 - [Nodes.io](https://nodes.io/) - Visual programming environment
 - [Nodetoy](https://nodetoy.co/) - Shader tool
+- [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
 
 ### Audio
 
+- [Axiom](https://github.com/monadgroup/axiom) - Realtime audio synthesizer [OSS]
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition [OSS]
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
