@@ -51,6 +51,10 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [nodify](https://github.com/miroiu/nodify) - Modular controls for node-based editors
 - [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
 
+## Rust Libraries
+
+- [egui_node_graph](https://github.com/setzer22/egui_node_graph) - Node applications using egui
+
 ## Applications
 
 ### Workflow & Automation
