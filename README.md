@@ -51,18 +51,19 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Cables](https://cables.gl/) - Visual programming environment
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
+- [customer.io](https://customer.io/visual-workflow-builder/) - Automated messaging platform
 - [Enso](https://enso.org/) - Code based automation tool
-- [Flowhub](https://flowhub.io/ide) - Visual programming tool
+- [Flowhub](https://flowhub.io/ide) - Visual programming tool [OSS]
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
+- [Kuwala](https://github.com/kuwala-io/kuwala) - Data Pipelines for BI analysists [OSS]
 - [Mode](https://mode.com/) - Tool for exploratory analysis
 - [n8n](https://n8n.io/) - Workflow automation platform
+- [novu](https://github.com/novuhq/novu) - Notification infrastructure for developers [OSS]
 - [OneSignal Journeys](https://onesignal.com/journeys) - Visual no-code workflow builder to automate messaging
 - [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
 - [whenthen](https://whenthen.com/) - Payment orchestration
-- [workflow86](https://www.workflow86.com/)
-- [customer.io](https://customer.io/visual-workflow-builder/)
-
+- [workflow86](https://www.workflow86.com/) - Workspace to document, automate and manage business workflows
 
 ### AI
 
@@ -73,7 +74,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [Natto](https://natto.dev/) - Javascript environment
-- [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+- [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications [OSS]
 - [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
 - [Rapidcanvas](https://rapidcanvas.ai/) - Data science platform
 - [Slang](https://bitspark.de/slang/) - Data processing tool
@@ -81,12 +82,13 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### 3D & Visuals
 
+- [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
 - [Nodes.io](https://nodes.io/) - Visual programming environment
-- [Nodetoy](https://nodetoy.co/)
+- [Nodetoy](https://nodetoy.co/) - Shader tool
 
 ### Audio
 
-- [Eternal](https://eternal.rob.computer/) - Audio and visual composition
+- [Eternal](https://eternal.rob.computer/) - Audio and visual composition [OSS]
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
 - [Zupiter](https://z.musictools.live) - Synthesizer
