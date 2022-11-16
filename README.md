@@ -15,13 +15,14 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
+- [mermaid](https://mermaid-js.github.io/mermaid) - Static diagrams for documentation
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for JavaScript
 - [react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based UIs
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
+- [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
-- [mermaid](https://mermaid-js.github.io/mermaid/#/) - Static diagrams for documentation
 
 ### Layouting
 
