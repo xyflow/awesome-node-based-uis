@@ -108,6 +108,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### 3D & Visuals
 
 - [Blackjack](https://github.com/setzer22/blackjack) - Procedural modelling application [OSS]
+- [Blender](https://www.blender.org/) - 3D graphics suite with node-based UIs for multiple rendering engines [OSS]
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
 - [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
