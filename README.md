@@ -18,7 +18,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
 - [mermaid](https://mermaid-js.github.io/mermaid) - Static diagrams for documentation
-- [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular
+- [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular [OSS]
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for JavaScript
 - [react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based UIs
