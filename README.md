@@ -15,6 +15,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
+- [GoJS](https://gojs.net) - Comprehensive diagramming library with a focus on customization and interactivity
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
 - [mermaid](https://mermaid-js.github.io/mermaid) - Static diagrams for documentation
