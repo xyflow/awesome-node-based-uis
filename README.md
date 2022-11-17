@@ -4,21 +4,23 @@
 
 A curated list with resources about node-based UIs.
 
-Check out [contributing.md](/contributing.md) for instructions on how to add a new link to the list.
+Check out [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on how to add a new link to the list.
 
 Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ## Javascript Libraries
 
-### Renderers 
+### Renderers
 
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
 - [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts
+- [GoJS](https://gojs.net) - Comprehensive diagramming library with a focus on customization and interactivity
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
 - [mermaid](https://mermaid-js.github.io/mermaid) - Static diagrams for documentation
+- [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular [OSS]
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for JavaScript
 - [react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based UIs
@@ -40,13 +42,14 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Graph Utilities
 
 - [behave-graph](https://github.com/bhouston/behave-graph) - extensible behaviour-graph execution engine
-  - [behave-flow](https://github.com/bhouston/behave-flow) -  UI for behave-graph using react-flow
+  - [behave-flow](https://github.com/bhouston/behave-flow) - UI for behave-graph using react-flow
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
 ### Misc
 
 - [flume](https://github.com/chrisjpatty/flume) - Business logic graph editor
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams
 
 ## C Libraries
 
@@ -56,19 +59,29 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [nodeeditor](https://github.com/paceholder/nodeeditor) - Dataflow programming framework
 - [nodify](https://github.com/miroiu/nodify) - Modular controls for node-based editors
 - [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
+- [graphviz](https://graphviz.org/) - Graph visualization software
 
 ## Rust Libraries
 
 - [egui_node_graph](https://github.com/setzer22/egui_node_graph) - Node applications using egui
+
+## Swift Libraries
+
+- [Flow](https://github.com/AudioKit/Flow) - Swift Package Manager-based node graph editor 
 
 ## Applications
 
 ### Workflow & Automation
 
 - [Cables](https://cables.gl/) - Visual programming environment
+- [Carto Workflows](https://carto.com/blog/introducing-carto-workflows/) - Spatial analytics tool
+- [Concourse CI](https://github.com/concourse/concourse/) - Container-based continuous thing-doer [OSS]
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
+- [Dopt](https://www.dopt.com) - Visual flow builder + APIs/SDKs for powering user onboarding and engagement experiences.
+- [Dots](https://dots.community) - No-code bot builder for Discord community onboarding & engagement
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [customer.io](https://customer.io/visual-workflow-builder/) - Automated messaging platform
+- [FME](https://www.safe.com/fme/fme-desktop/) - ETL tool with spatial data support
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool [OSS]
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
 - [Kuwala](https://github.com/kuwala-io/kuwala) - Data Pipelines for BI analysists [OSS]
@@ -78,6 +91,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [OneSignal Journeys](https://onesignal.com/journeys) - Visual no-code workflow builder to automate messaging
 - [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
+- [Retool Workflows](https://retool.com/blog/introducing-retool-workflows/) - ETL tool for Retool
+- [Tracardi](https://github.com/tracardi/tracardi) - Customer Journey Automation tool [OSS]
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/) - Workspace to document, automate and manage business workflows
 
@@ -103,21 +118,28 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### 3D & Visuals
 
 - [Blackjack](https://github.com/setzer22/blackjack) - Procedural modelling application [OSS]
+- [Blender](https://www.blender.org/) - 3D graphics suite with node-based UIs for multiple rendering engines [OSS]
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
 - [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
+- [Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design [OSS]
+- [Houdini](https://www.sidefx.com/products/houdini/) - Procedural system for artists
 - [Mixture](https://github.com/alelievr/Mixture) - Unity plugin to create textures in realtime [OSS]
 - [Nodebox](https://github.com/nodebox/nodebox) - App for visualization and generative design [OSS]
 - [Nodes.io](https://nodes.io/) - Visual programming environment
 - [Nodetoy](https://nodetoy.co/) - Shader tool
+- [Origami Studio](https://origami.design/) - UI design prototyping tool
 - [Ossia score](https://github.com/ossia/score) - Sequencer for audio-visual artists [OSS]
 - [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
 - [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
+- [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for macOS
 - [VVVV](https://vvvv.org/) - Visual live-programming environment
 
 ### Audio
 
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Audio recording and routing for macOS
 - [Axiom](https://github.com/monadgroup/axiom) - Realtime audio synthesizer [OSS]
+- [Bespoke](https://www.bespokesynth.com/) - Modular synthesizer
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition [OSS]
 - [Kronos](https://kronoslang.io/) - Visual & textual programming language designed for musical signals
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
@@ -128,6 +150,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [diagrams.net](https://www.diagrams.net/) - also known as draw.io
 - [FigJam](https://www.figma.com/figjam/)
-- [Knotend][https://www.knotend.com/] - Keyboard-centric flowchart editor
+- [Flowchart Fun](https://flowchart.fun/) - Generate flowcharts and diagrams from text [OSS]
+- [Knotend](https://www.knotend.com/) - Keyboard-centric flowchart editor
 - [Lucidchart](https://www.lucidchart.com/)
+- [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
 - [Miro](https://miro.com/)
