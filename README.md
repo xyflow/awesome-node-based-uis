@@ -129,6 +129,6 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [diagrams.net](https://www.diagrams.net/) - also known as draw.io
 - [FigJam](https://www.figma.com/figjam/)
-- [Knotend][https://www.knotend.com/] - Keyboard-centric flowchart editor
+- [Knotend](https://www.knotend.com/) - Keyboard-centric flowchart editor
 - [Lucidchart](https://www.lucidchart.com/)
 - [Miro](https://miro.com/)
