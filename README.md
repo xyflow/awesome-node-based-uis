@@ -129,6 +129,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Ossia score](https://github.com/ossia/score) - Sequencer for audio-visual artists [OSS]
 - [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
 - [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
+- [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for macOS
 - [VVVV](https://vvvv.org/) - Visual live-programming environment
 
 ### Audio
