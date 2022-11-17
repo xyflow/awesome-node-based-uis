@@ -1,5 +1,7 @@
 # Awesome Node-Based UIs
 
+![node-based ui](https://user-images.githubusercontent.com/2857535/202488299-e2950c46-d861-497a-8398-68eed494e77e.png)
+
 A curated list with resources about node-based UIs.
 
 Check out [contributing.md](/contributing.md) for instructions on how to add a new link to the list.
