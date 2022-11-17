@@ -46,6 +46,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Misc
 
 - [flume](https://github.com/chrisjpatty/flume) - Business logic graph editor
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams
 
 ## C Libraries
 
@@ -55,6 +56,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [nodeeditor](https://github.com/paceholder/nodeeditor) - Dataflow programming framework
 - [nodify](https://github.com/miroiu/nodify) - Modular controls for node-based editors
 - [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
+- [graphviz](https://graphviz.org/) - Graph visualization software
 
 ## Rust Libraries
 
@@ -129,6 +131,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [diagrams.net](https://www.diagrams.net/) - also known as draw.io
 - [FigJam](https://www.figma.com/figjam/)
+- [Flowchart Fun](https://flowchart.fun/) - Generate flowcharts and diagrams from text [OSS]
 - [Knotend](https://www.knotend.com/) - Keyboard-centric flowchart editor
 - [Lucidchart](https://www.lucidchart.com/)
+- [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
 - [Miro](https://miro.com/)
