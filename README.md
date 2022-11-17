@@ -38,6 +38,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### Graph Utilities
 
+- [behave-graph](https://github.com/bhouston/behave-graph) - extensible behaviour-graph execution engine
+  - [behave-flow](https://github.com/bhouston/behave-flow) -  UI for behave-graph using react-flow
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
