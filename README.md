@@ -90,6 +90,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [OneSignal Journeys](https://onesignal.com/journeys) - Visual no-code workflow builder to automate messaging
 - [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
+- [Tracardi](https://github.com/tracardi/tracardi) - Customer Journey Automation tool
 - [Retool Workflows](https://retool.com/blog/introducing-retool-workflows/) - ETL tool for Retool
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/) - Workspace to document, automate and manage business workflows
