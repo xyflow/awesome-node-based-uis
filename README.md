@@ -67,10 +67,12 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Workflow & Automation
 
 - [Cables](https://cables.gl/) - Visual programming environment
+- [Carto Workflows](https://carto.com/blog/introducing-carto-workflows/) - Spatial analytics tool
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
 - [Dopt](https://www.dopt.com) - Visual flow builder + APIs/SDKs for powering user onboarding and engagement experiences.
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [customer.io](https://customer.io/visual-workflow-builder/) - Automated messaging platform
+- [FME](https://www.safe.com/fme/fme-desktop/) - ETL tool with spatial data support
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool [OSS]
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
 - [Kuwala](https://github.com/kuwala-io/kuwala) - Data Pipelines for BI analysists [OSS]
@@ -80,6 +82,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [OneSignal Journeys](https://onesignal.com/journeys) - Visual no-code workflow builder to automate messaging
 - [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
+- [Retool Workflows](https://retool.com/blog/introducing-retool-workflows/) - ETL tool for Retool
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/) - Workspace to document, automate and manage business workflows
 
