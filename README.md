@@ -62,6 +62,10 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [egui_node_graph](https://github.com/setzer22/egui_node_graph) - Node applications using egui
 
+## Swift Libraries
+
+- [Flow](https://github.com/AudioKit/Flow) - Swift Package Manager-based node graph editor 
+
 ## Applications
 
 ### Workflow & Automation
