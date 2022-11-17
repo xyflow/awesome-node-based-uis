@@ -97,6 +97,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### 3D & Visuals
 
+- [Behave Flow](https://github.com/beeglebug/behave-flow) - Behaviour Graph editor [OSS]
 - [Blackjack](https://github.com/setzer22/blackjack) - Procedural modelling application [OSS]
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
