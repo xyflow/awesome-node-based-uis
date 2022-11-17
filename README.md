@@ -12,6 +12,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### Renderers
 
+- [baklavajs](https://github.com/newcat/baklavajs) - Graph/node editor in the browser using VueJS
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - A library to display an interactive editor for any graph-like data
