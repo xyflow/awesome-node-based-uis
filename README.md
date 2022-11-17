@@ -68,6 +68,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [Cables](https://cables.gl/) - Visual programming environment
 - [Carto Workflows](https://carto.com/blog/introducing-carto-workflows/) - Spatial analytics tool
+- [Concourse CI](https://github.com/concourse/concourse/) - Container-based continuous thing-doer [OSS]
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
 - [Dopt](https://www.dopt.com) - Visual flow builder + APIs/SDKs for powering user onboarding and engagement experiences.
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
