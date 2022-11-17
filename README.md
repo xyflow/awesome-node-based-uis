@@ -92,7 +92,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
 - [Rapidcanvas](https://rapidcanvas.ai/) - Data science platform
 - [Slang](https://bitspark.de/slang/) - Data processing tool
-- [Stately](https://stately.ai/) - Application logic visualizer
+- [Stately](https://stately.ai/) - Application logic visualizer [OSS]
 - [Y42](https://www.y42.com/) - Data pipeline tool
 
 ### 3D & Visuals
@@ -105,7 +105,9 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Nodebox](https://github.com/nodebox/nodebox) - App for visualization and generative design [OSS]
 - [Nodes.io](https://nodes.io/) - Visual programming environment
 - [Nodetoy](https://nodetoy.co/) - Shader tool
+- [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
 - [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
+- [VVVV](https://vvvv.org/) - Visual live-programming environment
 
 ### Audio
 
