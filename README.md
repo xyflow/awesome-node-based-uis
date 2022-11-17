@@ -91,7 +91,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
 - [Retool Workflows](https://retool.com/blog/introducing-retool-workflows/) - ETL tool for Retool
-- [Tracardi](https://github.com/tracardi/tracardi) - Customer Journey Automation tool
+- [Tracardi](https://github.com/tracardi/tracardi) - Customer Journey Automation tool [OSS]
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/) - Workspace to document, automate and manage business workflows
 
