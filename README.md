@@ -25,6 +25,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
+- [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts
 
 ### Layouting
 
