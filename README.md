@@ -112,6 +112,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Nodebox](https://github.com/nodebox/nodebox) - App for visualization and generative design [OSS]
 - [Nodes.io](https://nodes.io/) - Visual programming environment
 - [Nodetoy](https://nodetoy.co/) - Shader tool
+- [Origami Studio](https://origami.design/) - UI design prototyping tool
 - [Ossia score](https://github.com/ossia/score) - Sequencer for audio-visual artists [OSS]
 - [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
 - [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
