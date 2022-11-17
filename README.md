@@ -10,7 +10,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ## Javascript Libraries
 
-### Renderers 
+### Renderers
 
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - A collection of React components and hooks to build diagrams
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer that includes many utilities and algorithms
@@ -39,7 +39,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Graph Utilities
 
 - [behave-graph](https://github.com/bhouston/behave-graph) - extensible behaviour-graph execution engine
-  - [behave-flow](https://github.com/bhouston/behave-flow) -  UI for behave-graph using react-flow
+  - [behave-flow](https://github.com/bhouston/behave-flow) - UI for behave-graph using react-flow
 - [graphlib](https://github.com/dagrejs/graphlib) - Helpers for directed graphs in JS
 - [graphology](https://github.com/graphology/graphology) - Utilities and algorithms for all kinds of graphs
 
@@ -68,6 +68,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [Cables](https://cables.gl/) - Visual programming environment
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
+- [Dopt](https://www.dopt.com) - Visual flow builder + APIs/SDKs for powering user onboarding and engagement experiences.
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [customer.io](https://customer.io/visual-workflow-builder/) - Automated messaging platform
 - [Flowhub](https://flowhub.io/ide) - Visual programming tool [OSS]
