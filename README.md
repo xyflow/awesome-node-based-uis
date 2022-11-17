@@ -118,6 +118,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Audio
 
 - [Axiom](https://github.com/monadgroup/axiom) - Realtime audio synthesizer [OSS]
+- [Bespoke](https://www.bespokesynth.com/) - Modular synthesizer
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition [OSS]
 - [Kronos](https://kronoslang.io/) - Visual & textual programming language designed for musical signals
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
