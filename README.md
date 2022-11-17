@@ -77,6 +77,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Concourse CI](https://github.com/concourse/concourse/) - Container-based continuous thing-doer [OSS]
 - [Controller Lab](https://controllerlab.io/) - Drag-and-drop tool for remapping input devices
 - [Dopt](https://www.dopt.com) - Visual flow builder + APIs/SDKs for powering user onboarding and engagement experiences.
+- [Dots](https://dots.community) - No-code bot builder for Discord community onboarding & engagement
 - [DoubleLoop](https://doubleloop.app/) - Node-based dashboard builder to monitor business metrics
 - [customer.io](https://customer.io/visual-workflow-builder/) - Automated messaging platform
 - [FME](https://www.safe.com/fme/fme-desktop/) - ETL tool with spatial data support
