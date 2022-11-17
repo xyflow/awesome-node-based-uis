@@ -105,6 +105,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
 - [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
+- [Houdini](https://www.sidefx.com/products/houdini/) - Procedural system for artists
 - [Mixture](https://github.com/alelievr/Mixture) - Unity plugin to create textures in realtime [OSS]
 - [Nodebox](https://github.com/nodebox/nodebox) - App for visualization and generative design [OSS]
 - [Nodes.io](https://nodes.io/) - Visual programming environment
