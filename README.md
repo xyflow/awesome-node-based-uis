@@ -128,3 +128,4 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [FigJam](https://www.figma.com/figjam/)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Miro](https://miro.com/)
+- [Grapher](https://grapherx.netlify.app/) - open-source, supports nested nodes and custom JSON, built with SvelteJS + SVG
