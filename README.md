@@ -104,6 +104,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Data Processing
 
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
+- [CodeNect](https://flamendless.itch.io/codenect) - Visual Programming Software that transpiles to C
 - [Datablocks](https://datablocks.pro) - Data transformation and visualization
 - [Enso](https://enso.org/) - Code based automation tool [OSS]
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
