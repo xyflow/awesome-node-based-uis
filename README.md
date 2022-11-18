@@ -106,6 +106,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
 - [CodeNect](https://flamendless.itch.io/codenect) - Visual Programming Software that transpiles to C
 - [Datablocks](https://datablocks.pro) - Data transformation and visualization
+- [Easy Data Transform](https://www.easydatatransform.com/) - Data transformation tool
 - [Enso](https://enso.org/) - Code based automation tool [OSS]
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
 - [jsoncrack](https://github.com/AykutSarac/jsoncrack.com) - JSON data visualizer
@@ -119,6 +120,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### 3D & Visuals
 
+- [Armory3d](https://armory3d.org/features#scripting) - Game engine for Blender
 - [Blackjack](https://github.com/setzer22/blackjack) - Procedural modelling application [OSS]
 - [Blender](https://www.blender.org/) - 3D graphics suite with node-based UIs for multiple rendering engines [OSS]
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
@@ -127,13 +129,15 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design [OSS]
 - [Houdini](https://www.sidefx.com/products/houdini/) - Procedural system for artists
 - [Mixture](https://github.com/alelievr/Mixture) - Unity plugin to create textures in realtime [OSS]
+- [Natron](https://natrongithub.github.io/) - Compositing software for VFX and motion graphics [OSS]
 - [Nodebox](https://github.com/nodebox/nodebox) - App for visualization and generative design [OSS]
 - [Nodes.io](https://nodes.io/) - Visual programming environment
 - [Nodetoy](https://nodetoy.co/) - Shader tool
+- [Notch](https://www.notch.one/) - Motion graphics and interactive VFX in realtime
 - [Origami Studio](https://origami.design/) - UI design prototyping tool
-- [Ossia score](https://github.com/ossia/score) - Sequencer for audio-visual artists [OSS]
 - [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
 - [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
+- [Puredata](https://puredata.info/) - Visual programming language for multimedia
 - [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for macOS
 - [VVVV](https://vvvv.org/) - Visual live-programming environment
 
@@ -145,8 +149,14 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition [OSS]
 - [Kronos](https://kronoslang.io/) - Visual & textual programming language designed for musical signals
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software.
+- [Ossia score](https://github.com/ossia/score) - Sequencer for audio-visual artists [OSS]
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
 - [Zupiter](https://z.musictools.live) - Synthesizer
+
+### Scripting 
+
+- [PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python [OSS]
+- [Ryven](https://ryven.org/) - Visual scripting for python [OSS]
 
 ### Diagramming
 
