@@ -142,6 +142,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 ### Audio
 
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Audio recording and routing for macOS
+- [Audulus](https://audulus.com) - Modular synthesizer and DSP environment
 - [Axiom](https://github.com/monadgroup/axiom) - Realtime audio synthesizer [OSS]
 - [Bespoke](https://www.bespokesynth.com/) - Modular synthesizer
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition [OSS]
