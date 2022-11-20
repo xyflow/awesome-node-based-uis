@@ -50,6 +50,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [flume](https://github.com/chrisjpatty/flume) - Business logic graph editor
 - [mermaid](https://github.com/mermaid-js/mermaid) - Flowchart and sequence diagrams generation
+- [quick-erd](https://github.com/beenotung/quick-erd) - Generate entity-relationship diagrams (ERD) from text, and reverse engineer ERD text from live database
 
 ## C Libraries
 
@@ -168,3 +169,4 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
 - [Miro](https://miro.com/)
+- [quick-erd Live](https://quick-erd.surge.sh) - Generate entity-relationship diagrams from text [OSS]
