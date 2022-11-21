@@ -169,4 +169,3 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
 - [Miro](https://miro.com/)
-- [quick-erd Live](https://quick-erd.surge.sh) - Generate entity-relationship diagrams from text [OSS]
