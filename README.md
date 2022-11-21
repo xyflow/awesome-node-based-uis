@@ -56,11 +56,11 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### Renderers
 
+- [graphviz](https://graphviz.org/) - Graph visualization software
+- [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
 - [node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using dear imgui
 - [nodeeditor](https://github.com/paceholder/nodeeditor) - Dataflow programming framework
 - [nodify](https://github.com/miroiu/nodify) - Modular controls for node-based editors
-- [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
-- [graphviz](https://graphviz.org/) - Graph visualization software
 
 ## Rust Libraries
 
@@ -145,7 +145,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Audio recording and routing for macOS
 - [Audulus](https://audulus.com) - Modular synthesizer and DSP environment
 - [Axiom](https://github.com/monadgroup/axiom) - Realtime audio synthesizer [OSS]
-- [Bespoke](https://www.bespokesynth.com/) - Modular synthesizer
+- [Bespoke](https://www.bespokesynth.com/) - Modular synthesizer [OSS]
 - [Eternal](https://eternal.rob.computer/) - Audio and visual composition [OSS]
 - [Kronos](https://kronoslang.io/) - Visual & textual programming language designed for musical signals
 - [Max](https://cycling74.com/products/max) - Tool to create your own interactive software
