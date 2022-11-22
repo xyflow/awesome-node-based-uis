@@ -70,6 +70,12 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [Flow](https://github.com/AudioKit/Flow) - Swift Package Manager-based node graph editor 
 
+## Go Libraries
+
+### Diagramming 
+
+- [d2](https://github.com/terrastruct/d2) - Scripting language that turns text to diagrams
+
 ## Applications
 
 ### Workflow & Automation
@@ -170,3 +176,4 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
 - [Miro](https://miro.com/)
+- [Terrastruct](https://terrastruct.com/) - Visualize software architecture
