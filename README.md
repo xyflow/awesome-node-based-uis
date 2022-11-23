@@ -80,6 +80,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### Workflow & Automation
 
+- [Benthos Studio](https://studio.benthos.dev/) - Visual editing for the Benthos stream processor
 - [Cables](https://cables.gl/) - Visual programming environment
 - [Carto Workflows](https://carto.com/blog/introducing-carto-workflows/) - Spatial analytics tool
 - [Concourse CI](https://github.com/concourse/concourse/) - Container-based continuous thing-doer [OSS]
