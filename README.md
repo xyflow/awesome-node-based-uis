@@ -28,6 +28,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
+- - [react-flow-builder](https://github.com/bytedance/flow-builder) - A highly customizable diagram based streaming flow builder.
 
 ### Layouting
 
@@ -68,11 +69,11 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ## Swift Libraries
 
-- [Flow](https://github.com/AudioKit/Flow) - Swift Package Manager-based node graph editor 
+- [Flow](https://github.com/AudioKit/Flow) - Swift Package Manager-based node graph editor
 
 ## Go Libraries
 
-### Diagramming 
+### Diagramming
 
 - [d2](https://github.com/terrastruct/d2) - Scripting language that turns text to diagrams
 
@@ -160,7 +161,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
 - [Zupiter](https://z.musictools.live) - Synthesizer
 
-### Scripting 
+### Scripting
 
 - [Natto](https://natto.dev/) - Javascript environment
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for Javascript [OSS]
