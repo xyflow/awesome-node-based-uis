@@ -29,6 +29,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
 - [react-flow-builder](https://github.com/bytedance/flow-builder) - A highly customizable diagram based streaming flow builder.
+- [Butterfly](https://github.com/alibaba/butterfly) - A JS based data driven nodal choreography component library
 
 ### Layouting
 
