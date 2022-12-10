@@ -14,9 +14,11 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [baklavajs](https://github.com/newcat/baklavajs) - Graph/node editor for VueJs
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - React components and hooks to build diagrams
+- [butterfly](https://github.com/alibaba/butterfly) - Renderer for interactive diagrams and flowcharts
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer with utilities and algorithms
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - Interactive editor for any graph-like data
 - [Flowy](https://github.com/alyssaxuu/flowy) - Flowchart library
+- [flow-builder](https://github.com/bytedance/flow-builder) - React-based renderer for workflows and process diagrams
 - [GoJS](https://gojs.net) - Diagramming library with a focus on customization and interactivity
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
@@ -28,8 +30,6 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
-- [react-flow-builder](https://github.com/bytedance/flow-builder) - A highly customizable diagram based streaming flow builder.
-- [Butterfly](https://github.com/alibaba/butterfly) - A JS based data driven nodal choreography component library
 
 ### Layouting
 
