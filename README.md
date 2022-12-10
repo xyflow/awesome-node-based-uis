@@ -14,9 +14,11 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 - [baklavajs](https://github.com/newcat/baklavajs) - Graph/node editor for VueJs
 - [beautiful-react-diagrams](https://github.com/beautifulinteractions/beautiful-react-diagrams) - React components and hooks to build diagrams
+- [butterfly](https://github.com/alibaba/butterfly) - Renderer for interactive diagrams and flowcharts
 - [cytoscape.js](https://js.cytoscape.org/) - Canvas based renderer with utilities and algorithms
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - Interactive editor for any graph-like data
 - [Flowy](https://github.com/alyssaxuu/flowy) - Flowchart library
+- [flow-builder](https://github.com/bytedance/flow-builder) - React-based renderer for workflows and process diagrams
 - [GoJS](https://gojs.net) - Diagramming library with a focus on customization and interactivity
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
@@ -69,11 +71,11 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ## Swift Libraries
 
-- [Flow](https://github.com/AudioKit/Flow) - Swift Package Manager-based node graph editor 
+- [Flow](https://github.com/AudioKit/Flow) - Swift Package Manager-based node graph editor
 
 ## Go Libraries
 
-### Diagramming 
+### Diagramming
 
 - [d2](https://github.com/terrastruct/d2) - Scripting language that turns text to diagrams
 
@@ -161,7 +163,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
 - [Zupiter](https://z.musictools.live) - Synthesizer
 
-### Scripting 
+### Scripting
 
 - [Natto](https://natto.dev/) - Javascript environment
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for Javascript [OSS]
