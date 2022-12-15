@@ -102,6 +102,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [OneSignal Journeys](https://onesignal.com/journeys) - Workflow builder to automate messaging
 - [Patterns](https://patterns.app) - Data processing and automation tool
 - [Power Automate](https://powerautomate.microsoft.com/de-de/) - Automation tool
+- [Proxeus](https://github.com/proxeusapp) - Workflow builder for secure documents and more [OSS]
 - [Retool Workflows](https://retool.com/blog/introducing-retool-workflows/) - ETL tool for Retool
 - [Stately](https://stately.ai/) - Application logic visualizer [OSS]
 - [Tracardi](https://github.com/tracardi/tracardi) - Customer Journey Automation tool [OSS]
