@@ -137,8 +137,9 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Blender](https://www.blender.org/) - 3D graphics suite for multiple rendering engines [OSS]
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
-- [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
 - [Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design [OSS]
+- [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
+- [Gimel Studio](https://gimelstudio.github.io/) - 2D image editor [OSS]
 - [Houdini](https://www.sidefx.com/products/houdini/) - Procedural system for artists
 - [Mixture](https://github.com/alelievr/Mixture) - Unity plugin to create textures in realtime [OSS]
 - [Natron](https://natrongithub.github.io/) - Compositing software for VFX and motion graphics [OSS]
