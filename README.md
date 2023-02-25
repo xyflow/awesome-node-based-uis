@@ -133,6 +133,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### 3D & Visuals
 
+- [Alma](https://www.alma.sh/) - Digital playground for visual experiences
 - [Armory3d](https://armory3d.org/features#scripting) - Game engine for Blender
 - [Blackjack](https://github.com/setzer22/blackjack) - Procedural modelling application [OSS]
 - [Blender](https://www.blender.org/) - 3D graphics suite for multiple rendering engines [OSS]
