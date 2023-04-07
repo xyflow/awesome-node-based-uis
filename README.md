@@ -178,7 +178,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for Javascript [OSS]
 - [PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python [OSS]
 - [Ryven](https://ryven.org/) - Visual scripting for python [OSS]
-- [Regex Nodes](https://johannesvollmer.com/regex-nodes) - Analyze and Build regular expressions in your browser [OSS]
+- [Regex Nodes](https://johannesvollmer.com/regex-nodes) - Analyze and build regular expressions in your browser [OSS]
 
 ### Diagramming
 
