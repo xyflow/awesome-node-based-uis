@@ -117,6 +117,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### AI
 
+- [Cellulose](https://www.cellulose.ai) - Machine Learning Model visualizer and optimization tool
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
 
 ### Data Processing
