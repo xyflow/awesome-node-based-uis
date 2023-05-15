@@ -155,7 +155,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Origami Studio](https://origami.design/) - UI design prototyping tool
 - [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
 - [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
-- [Puredata](https://puredata.info/) - Visual programming language for multimedia
+- [Puredata](https://puredata.info/) - Visual programming language for multimedia [OSS]
 - [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for macOS
 - [VVVV](https://vvvv.org/) - Visual live-programming environment
 
