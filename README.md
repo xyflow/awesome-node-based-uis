@@ -69,8 +69,14 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
 - [node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using dear imgui
 - [nodeeditor](https://github.com/paceholder/nodeeditor) - Dataflow programming framework
-- [nodify](https://github.com/miroiu/nodify) - Modular controls for node-based editors
 
+## .NET Libraries
+
+- [Blazor.Diagrams](https://github.com/Blazor-Diagrams/Blazor.Diagrams) - A fully customizable and extensible all-purpose diagrams library for Blazor.
+- [nodify](https://github.com/miroiu/nodify) - A collection of WPF controls for node based editors designed for MVVM.
+- [NodeNetwork](https://github.com/Wouterdek/NodeNetwork) - A C# library with a WPF node editor component based on ReactiveUI.
+- [STNodeEditor](https://github.com/DebugST/STNodeEditor) - A node editor based in Windows Forms and GDI that offers extensive properties and events for streamlined data interaction between nodes.
+  
 ## Rust Libraries
 
 - [egui_node_graph](https://github.com/setzer22/egui_node_graph) - Node applications using egui
