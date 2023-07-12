@@ -149,6 +149,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Blender](https://www.blender.org/) - 3D graphics suite for multiple rendering engines [OSS]
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Design and execute advanced Stable Diffusion pipelines for AI image generation [OSS]
 - [Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design [OSS]
 - [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
 - [Gimel Studio](https://gimelstudio.github.io/) - 2D image editor [OSS]
