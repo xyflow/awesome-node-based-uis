@@ -182,6 +182,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 
 ### Scripting
 
+- [flojoy](https://www.flojoy.ai/) - No code Python programming
 - [Natto](https://natto.dev/) - Javascript environment
 - [noflo](https://github.com/noflo/noflo/) - Flow-based programming for Javascript [OSS]
 - [PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python [OSS]
