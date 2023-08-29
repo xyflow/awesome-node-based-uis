@@ -151,6 +151,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Design and execute advanced Stable Diffusion pipelines for AI image generation [OSS]
 - [Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design [OSS]
+- [FFmpeg Explorer](https://ffmpeg.lav.io/) - Tool for exploring FFmpeg filters 
 - [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
 - [Gimel Studio](https://gimelstudio.github.io/) - 2D image editor [OSS]
 - [Houdini](https://www.sidefx.com/products/houdini/) - Procedural system for artists
