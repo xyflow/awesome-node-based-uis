@@ -200,5 +200,6 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
 - [Miro](https://miro.com/)
+- [nomnoml](https://nomnoml.com/) - Tool for drawing UML diagrams [OSS]
 - [QuikFlow](https://quikflow.app/) - Create flowcharts with a mindmapping workflow
 - [Terrastruct](https://terrastruct.com/) - Visualize software architecture
