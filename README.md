@@ -109,7 +109,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [Kelp](https://kelp.app/) - Build interactive data-driven apps for operational analytics
 - [Kuwala](https://github.com/kuwala-io/kuwala) - Data Pipelines for BI analysists [OSS]
 - [Mode](https://mode.com/) - Tool for exploratory analysis
-- [n8n](https://n8n.io/) - Workflow automation platform
+- [n8n](https://n8n.io/) - Workflow automation platform (Utilizes [jsplumb](https://jsplumbtoolkit.com/community))
 - [novu](https://github.com/novuhq/novu) - Notification infrastructure for developers [OSS]
 - [OneSignal Journeys](https://onesignal.com/journeys) - Workflow builder to automate messaging
 - [Patterns](https://patterns.app) - Data processing and automation tool
