@@ -30,10 +30,11 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev)
 - [nodl](https://github.com/emilwidlund/nodl) - Framework for computational node graphs
 - [react-dag-editor](https://github.com/microsoft/react-dag-editor) - React component to create graphic user interface
 - [react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
-- [react-flow](https://github.com/wbkd/react-flow) - React library for rendering node-based UIs
+- [React Flow](https://github.com/xyflow/xyflow) - React library for rendering node-based UIs
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
 - [sigma.js](https://github.com/jacomyal/sigma.js) - Visualization framework for large graphs
+- [Svelte Flow](https://github.com/xyflow/xyflow) - Svelte library for rendering node-based UIs
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
 
