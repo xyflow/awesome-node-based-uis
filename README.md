@@ -129,6 +129,20 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI 
 
+### Diagramming
+
+- [diagrams.net](https://www.diagrams.net/) - also known as draw.io
+- [FigJam](https://www.figma.com/figjam/)
+- [Flowchart Fun](https://flowchart.fun/) - Generate flowcharts and diagrams from text [OSS]
+- [Grapher](https://grapherx.netlify.app/) - Flowchart tool [OSS]
+- [Knotend](https://www.knotend.com/) - Keyboard-centric flowchart editor
+- [Lucidchart](https://www.lucidchart.com/)
+- [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
+- [Miro](https://miro.com/)
+- [nomnoml](https://nomnoml.com/) - Tool for drawing UML diagrams [OSS]
+- [QuikFlow](https://quikflow.app/) - Create flowcharts with a mindmapping workflow
+- [Terrastruct](https://terrastruct.com/) - Visualize software architecture
+
 ### Data Processing
 
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
@@ -193,16 +207,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Ryven](https://ryven.org/) - Visual scripting for python [OSS]
 - [Regex Nodes](https://johannesvollmer.com/regex-nodes) - Analyze and build regular expressions in your browser [OSS]
 
-### Diagramming
+### Misc
 
-- [diagrams.net](https://www.diagrams.net/) - also known as draw.io
-- [FigJam](https://www.figma.com/figjam/)
-- [Flowchart Fun](https://flowchart.fun/) - Generate flowcharts and diagrams from text [OSS]
-- [Grapher](https://grapherx.netlify.app/) - Flowchart tool [OSS]
-- [Knotend](https://www.knotend.com/) - Keyboard-centric flowchart editor
-- [Lucidchart](https://www.lucidchart.com/)
-- [Mermaid Live](https://mermaid.live/) - Edit, preview and share mermaid charts/diagrams [OSS]
-- [Miro](https://miro.com/)
-- [nomnoml](https://nomnoml.com/) - Tool for drawing UML diagrams [OSS]
-- [QuikFlow](https://quikflow.app/) - Create flowcharts with a mindmapping workflow
-- [Terrastruct](https://terrastruct.com/) - Visualize software architecture
+- [Twine](http://www.twinery.org/) - Tool for telling interactive, non-linear stories
+
