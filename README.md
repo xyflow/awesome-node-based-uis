@@ -156,6 +156,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Nifi](https://nifi.apache.org/) - Data routing, transformation, and system mediation logic
 - [Rapidcanvas](https://rapidcanvas.ai/) - Data science platform
 - [Slang](https://bitspark.de/slang/) - Data processing tool
+- [Streamdal](https://github.com/streamdal/streamdal) - Code-Native Data Pipelines [OSS]
 - [Y42](https://www.y42.com/) - Data pipeline tool
 
 ### 3D & Visuals
