@@ -24,6 +24,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [jsplumb](https://jsplumbtoolkit.com/community) - Open source project written in Typescript that gives you the tools you need to visually connect DOM elements
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
+- [ngraph](https://github.com/clarkmcc/ngraph) - A declarative node graph editor for React
 - [mermaid](https://mermaid-js.github.io/mermaid) - Static diagrams for documentation
 - [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular
 - [nice-dag](https://github.com/eBay/nice-dag) - Lightweight javascript library, which is used to present a DAG diagram
