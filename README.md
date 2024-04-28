@@ -26,6 +26,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [litegraph.js](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor
 - [mermaid](https://mermaid-js.github.io/mermaid) - Static diagrams for documentation
 - [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular
+- [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular
 - [nice-dag](https://github.com/eBay/nice-dag) - Lightweight javascript library, which is used to present a DAG diagram
 - [nodl](https://github.com/emilwidlund/nodl) - Framework for computational node graphs
 - [react-dag-editor](https://github.com/microsoft/react-dag-editor) - React component to create graphic user interface
