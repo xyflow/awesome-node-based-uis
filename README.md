@@ -128,7 +128,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 - [Cellulose](https://www.cellulose.ai) - Machine Learning Model visualizer and optimization tool
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI 
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI
+- [CraftGen](https://craftgen.ai) - Visually build and orchestrate powerful AI agents.
 
 ### Diagramming
 
