@@ -39,7 +39,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
 - [X6](https://github.com/antvis/X6) - Diagramming library that uses SVG and HTML
 - [yFiles](https://www.yworks.com/products/yfiles) - Library for visualizing, editing and analyzing graphs
-
+- [Foblex Flow](https://github.com/Foblex/f-flow) - Angular library for rendering node-based UIs
+  
 ### Layouting
 
 - [elkjs](https://github.com/kieler/elkjs) - A port of the Java ELK layouting library to Javascript
