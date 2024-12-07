@@ -63,6 +63,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [mermaid](https://github.com/mermaid-js/mermaid) - Flowchart and sequence diagrams generation
 - [pintora](https://github.com/hikerpig/pintora) - Text-to-diagrams library
 - [quick-erd](https://github.com/beenotung/quick-erd) - Generate entity-relationship diagrams (ERD) from text, and reverse engineer ERD text from live database
+- [RabbitHoles AI](https://rabbitholes.ai) - A canvas first AI chatbot. Chat with multiple AI on a canvas. Create branches that share context. 
 
 ## C Libraries
 
