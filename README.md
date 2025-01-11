@@ -159,6 +159,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Rapidcanvas](https://rapidcanvas.ai/) - Data science platform
 - [Slang](https://bitspark.de/slang/) - Data processing tool
 - [Y42](https://www.y42.com/) - Data pipeline tool
+- [Orange Data Mining](https://orangedatamining.com/) - Data mining and processing tool [OSS]
 
 ### 3D & Visuals
 
