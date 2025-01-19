@@ -83,6 +83,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 ## Rust Libraries
 
 - [egui_node_graph](https://github.com/setzer22/egui_node_graph) - Node applications using egui
+- [egui-snarl](https://github.com/zakarumych/egui-snarl) - Crate for creating and manipulating node-graph UIs
 
 ## Swift Libraries
 
