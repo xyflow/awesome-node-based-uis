@@ -30,6 +30,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [nice-dag](https://github.com/eBay/nice-dag) - Lightweight javascript library, which is used to present a DAG diagram
 - [nodl](https://github.com/emilwidlund/nodl) - Framework for computational node graphs
 - [react-dag-editor](https://github.com/microsoft/react-dag-editor) - React component to create graphic user interface
+- [react-diagrams](https://github.com/projectstorm/react-diagrams) - A suer simple diagramming library written in React [OSS]
 - [react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
 - [React Flow](https://github.com/xyflow/xyflow) - React library for rendering node-based UIs
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
