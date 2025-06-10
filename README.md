@@ -125,6 +125,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Tracardi](https://github.com/tracardi/tracardi) - Customer Journey Automation tool [OSS]
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/) - Workspace to document, automate and manage business workflows
+- [ANORA](https://anora.yaps.gg/projects) - Intelligent Canvas for Infinite Creativity. 
 
 ### AI
 
@@ -132,6 +133,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI
 - [CraftGen](https://craftgen.ai) - Visually build and orchestrate powerful AI agents.
+- [ANORA](https://anora.yaps.gg/projects) - Intelligent Canvas for Infinite Creativity. 
 
 ### Diagramming
 
@@ -190,6 +192,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Puredata](https://puredata.info/) - Visual programming language for multimedia [OSS]
 - [Retrobatch](https://flyingmeat.com/retrobatch/) - Batch image processing for macOS
 - [VVVV](https://vvvv.org/) - Visual live-programming environment
+- [ANORA](https://anora.yaps.gg/projects) - Intelligent Canvas for Infinite Creativity.
 
 ### Audio
 
@@ -203,6 +206,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Ossia score](https://github.com/ossia/score) - Sequencer for audio-visual artists [OSS]
 - [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) - Modular digital signal processor
 - [Zupiter](https://z.musictools.live) - Synthesizer
+- [ANORA](https://anora.yaps.gg/projects) - Intelligent Canvas for Infinite Creativity.
 
 ### Scripting
 
