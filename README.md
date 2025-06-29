@@ -35,6 +35,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [React Flow](https://github.com/xyflow/xyflow) - React library for rendering node-based UIs
 - [reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors
 - [rete](https://github.com/retejs/rete/) - Framework for visual programming and node editors
+- [Sequential Workflow Designer](https://github.com/nocode-js/sequential-workflow-designer) - Workflow builder component for any JavaScript framework
 - [sigma.js](https://github.com/jacomyal/sigma.js) - Visualization framework for large graphs
 - [Svelte Flow](https://github.com/xyflow/xyflow) - Svelte library for rendering node-based UIs
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - Flowchart component for Vue 3
