@@ -125,6 +125,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Tracardi](https://github.com/tracardi/tracardi) - Customer Journey Automation tool [OSS]
 - [whenthen](https://whenthen.com/) - Payment orchestration
 - [workflow86](https://www.workflow86.com/) - Workspace to document, automate and manage business workflows
+- [Workflow Builder](https://workflowbuilder.io) - SDK and foundation for creating workflow based applications
 
 ### AI
 
