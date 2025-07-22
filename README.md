@@ -74,6 +74,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [imnodes](https://github.com/Nelarius/imnodes) - Node editor for dear imgui
 - [node-editor](https://github.com/thedmd/imgui-node-editor) - Node Editor built using dear imgui
 - [nodeeditor](https://github.com/paceholder/nodeeditor) - Dataflow programming framework
+- [imgui-node-editor](https://github.com/thedmd/imgui-node-editor) - An implementation of node editor with ImGui-like API.
 
 ## .NET Libraries
 
