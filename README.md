@@ -29,6 +29,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular
 - [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular
 - [nice-dag](https://github.com/eBay/nice-dag) - Lightweight javascript library, which is used to present a DAG diagram
+- [Node Flow](https://github.com/EliCDavis/node-flow) - Typescript Flow-based Node Graph Library [OSS]
 - [nodl](https://github.com/emilwidlund/nodl) - Framework for computational node graphs
 - [react-dag-editor](https://github.com/microsoft/react-dag-editor) - React component to create graphic user interface
 - [react-digraph](https://github.com/uber/react-digraph) - A library for creating directed graph editors
@@ -186,6 +187,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Nodetoy](https://nodetoy.co/) - Shader tool
 - [Notch](https://www.notch.one/) - Motion graphics and interactive VFX in realtime
 - [Origami Studio](https://origami.design/) - UI design prototyping tool
+- [Polyform](https://github.com/EliCDavis/polyform) - Immutable mesh processing library [OSS]
 - [Polygonjs](https://github.com/polygonjs/polygonjs) - WebGL design tool [OSS]
 - [Protongraph](https://github.com/protongraph/protongraph) - Procedural content generation [OSS]
 - [Puredata](https://puredata.info/) - Visual programming language for multimedia [OSS]
