@@ -131,7 +131,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 - [Cellulose](https://www.cellulose.ai) - Machine Learning Model visualizer and optimization tool
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Open source node-based application for generative AI [OSS]
 - [CraftGen](https://craftgen.ai) - Visually build and orchestrate powerful AI agents.
 
 ### Diagramming
@@ -173,7 +173,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Blender](https://www.blender.org/) - 3D graphics suite for multiple rendering engines [OSS]
 - [Cascade](https://github.com/ttddee/Cascade) - Image editor [OSS]
 - [Chainner](https://github.com/chaiNNer-org/chaiNNer) - Image processing GUI [OSS]
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Design and execute advanced Stable Diffusion pipelines for AI image generation [OSS]
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Open source node-based application for generative AI [OSS]
 - [Dynamo](https://github.com/DynamoDS/Dynamo) - Open Source Graphical Programming for Design [OSS]
 - [FFmpeg Explorer](https://ffmpeg.lav.io/) - Tool for exploring FFmpeg filters 
 - [Gaffer](https://github.com/GafferHQ/gaffer) - Application for lookdev, lighting and automation [OSS]
