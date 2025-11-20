@@ -19,6 +19,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [diagram-maker](https://awslabs.github.io/diagram-maker) - Interactive editor for any graph-like data
 - [Flowy](https://github.com/alyssaxuu/flowy) - Flowchart library
 - [flow-builder](https://github.com/bytedance/flow-builder) - React-based renderer for workflows and process diagrams
+- [Flume](https://flume.dev) - Type-safe toolkit for building visual programming languages.
 - [Foblex Flow](https://github.com/foblex/f-flow) - Angular library for rendering node-based UIs
 - [GoJS](https://gojs.net) - Diagramming library with a focus on customization and interactivity
 - [jointjs](https://www.jointjs.com) - JavaScript diagramming library
