@@ -66,7 +66,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [pintora](https://github.com/hikerpig/pintora) - Text-to-diagrams library
 - [quick-erd](https://github.com/beenotung/quick-erd) - Generate entity-relationship diagrams (ERD) from text, and reverse engineer ERD text from live database
 
-## C Libraries
+## C/C++ Libraries
 
 ### Renderers
 
