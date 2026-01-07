@@ -133,6 +133,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI
 - [CraftGen](https://craftgen.ai) - Visually build and orchestrate powerful AI agents.
+- [nodetool](https://nodetool.ai) - Local-First AI Workflow Builder
 
 ### Diagramming
 
