@@ -21,6 +21,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [flow-builder](https://github.com/bytedance/flow-builder) - React-based renderer for workflows and process diagrams
 - [Foblex Flow](https://github.com/foblex/f-flow) - Angular library for rendering node-based UIs
 - [GoJS](https://gojs.net) - Diagramming library with a focus on customization and interactivity
+- [graph-editor](https://github.com/fidesit/graph-editor) - Configuration-driven visual graph editor for Angular
 - [jointjs](https://www.jointjs.com) - JavaScript diagramming library
 - [jsplumb](https://jsplumbtoolkit.com/community) - Open source project written in Typescript that gives you the tools you need to visually connect DOM elements
 - [kedro-viz](https://github.com/kedro-org/kedro-viz) - Visualises Kedro data and machine-learning pipelines
