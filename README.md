@@ -93,6 +93,8 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ## Go Libraries
 
+- [Immygo](https://github.com/amken3d/Immygo) - AI-first cross platform desktop UI framework for Go, with a Node flow editor with pan/zoom, palette, save/load, typed ports
+
 ### Diagramming
 
 - [d2](https://github.com/terrastruct/d2) - Scripting language that turns text to diagrams
