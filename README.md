@@ -153,6 +153,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [Cascade](https://www.cascade.io/) - Data transformation and visualization
 - [CodeNect](https://flamendless.itch.io/codenect) - Visual Programming Software that transpiles to C
 - [Datablocks](https://datablocks.pro) - Data transformation and visualization
+- [Duckle](https://github.com/SouravRoy-ETL/duckle) - Visual ETL/ELT studio that compiles a node graph to DuckDB SQL [OSS]
 - [Easy Data Transform](https://www.easydatatransform.com/) - Data transformation tool
 - [Enso](https://enso.org/) - Code based automation tool [OSS]
 - [Graphqleditor](https://graphqleditor.com/) - Editor for GraphQL
