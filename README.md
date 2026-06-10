@@ -216,5 +216,6 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### Misc
 
+- [Cate](https://github.com/0-AI-UG/cate) - IDE with editor, terminal and browser panels on an infinite canvas [OSS]
 - [Twine](http://www.twinery.org/) - Tool for telling interactive, non-linear stories
 
