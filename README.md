@@ -51,6 +51,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [dagrejs](https://github.com/dagrejs/dagre) - Directed graph layout algorithms for Javascript
 - [graphology-layout](https://graphology.github.io/standard-library/layout.html) - Layout algorithms
 - [springy](https://github.com/dhotson/springy) - Force directed graph layouts
+- [react-flow-auto-layout](https://github.com/DylanMerigaud/react-flow-auto-layout) - Dagre layout for React Flow, variable-size centering + straight edges
 
 ### Graph Utilities
 
