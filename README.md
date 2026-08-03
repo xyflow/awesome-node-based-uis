@@ -139,6 +139,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [diagrams.net](https://www.diagrams.net/) - also known as draw.io
 - [FigJam](https://www.figma.com/figjam/)
 - [Flowchart Fun](https://flowchart.fun/) - Generate flowcharts and diagrams from text [OSS]
+- [flow-chart.io](https://flow-chart.io) - AI diagram generator that produces editable C4 architecture, BPMN, cloud architecture, and ERD scene graphs from plain-language prompts
 - [Grapher](https://grapherx.netlify.app/) - Flowchart tool [OSS]
 - [Knotend](https://www.knotend.com/) - Keyboard-centric flowchart editor
 - [Lucidchart](https://www.lucidchart.com/)
