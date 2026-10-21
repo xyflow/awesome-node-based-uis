@@ -213,6 +213,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 - [PyFlow](https://github.com/wonderworks-software/PyFlow) - Visual scripting framework for python [OSS]
 - [Ryven](https://ryven.org/) - Visual scripting for python [OSS]
 - [Regex Nodes](https://johannesvollmer.com/regex-nodes) - Analyze and build regular expressions in your browser [OSS]
+- [f32nodes](https://github.com/jan-nou/f32nodes) - Python dataflow runtime with a live node-graph view [OSS]
 
 ### Misc
 
