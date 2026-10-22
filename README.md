@@ -129,6 +129,7 @@ Curators: Christopher, John and Moritz from [React Flow](https://reactflow.dev) 
 
 ### AI
 
+- [AI Canvas Tauri](https://github.com/Tenney95/AI-Canvas-tauri) - Free, lightweight AI canvas for storyboards and video workflows
 - [Cellulose](https://www.cellulose.ai) - Machine Learning Model visualizer and optimization tool
 - [Netron](https://github.com/lutzroeder/netron) - Visualizer for machine learning models
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Stable Diffusion GUI
